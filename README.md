@@ -1,4 +1,5 @@
-# 601-P2
+# 601-P2 (A)
+
 Individual project number two for EC 601
 
 This project contains three separate files. The first (t.py) is the authorization file. This is where the user will put their personal authorization tokens for the twitter API. This authorization file is imported into both of the other files (get_tweets.py, and searchparty.py0. The get_tweets.py file contains a very basic script that enables a user to input a username and retrieve the last 25 tweets from the specified users' timeline. The number of tweets retrieved can be changed by changing the number parameter in line 14 contained in the .item() specification. The searchparty.py script does considerably more. 
