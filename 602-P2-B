@@ -4,7 +4,7 @@ how positve or negative the text appears to be according to the NLP algorithm an
 the sentiment expressed in the text appears to be. The included screenshots below deomonstrate this script running on two phrases on opposite
 ends of the sentiment spectrum
 
-![Sentiment](/classify.png)
+![Sentiment](classify.png)
 
 The second script (entities.py) attempts to find people, organizations, businesses, etc. within a text snippet. Once, for example,
 a name of a person is found, it attempts classifies the name as a person, and displays a salience score, which is an attempt at predicting 
