@@ -2,6 +2,6 @@ The objective for this particular project was to utilize the Twitter API and the
 
 ![](Final_res1.png)
 ![Results](fin_res2.png)
-![Results](/fin_res3.png)
-![Results](/fin_res4.png)
-![Results](/fin_res5.png)
+![Results](fin_res3.png)
+![Results](fin_res4.png)
+![Results](fin_res5.png)
